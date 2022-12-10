@@ -1,0 +1,15 @@
+C:\Users\JesusEmmanuelAbraham\source\me\Challenges\Challenges\bin\Debug\net6.0\Challenges.exe
+C:\Users\JesusEmmanuelAbraham\source\me\Challenges\Challenges\bin\Debug\net6.0\Challenges.deps.json
+C:\Users\JesusEmmanuelAbraham\source\me\Challenges\Challenges\bin\Debug\net6.0\Challenges.runtimeconfig.json
+C:\Users\JesusEmmanuelAbraham\source\me\Challenges\Challenges\bin\Debug\net6.0\Challenges.dll
+C:\Users\JesusEmmanuelAbraham\source\me\Challenges\Challenges\bin\Debug\net6.0\Challenges.pdb
+C:\Users\JesusEmmanuelAbraham\source\me\Challenges\Challenges\obj\Debug\net6.0\Challenges.csproj.AssemblyReference.cache
+C:\Users\JesusEmmanuelAbraham\source\me\Challenges\Challenges\obj\Debug\net6.0\Challenges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JesusEmmanuelAbraham\source\me\Challenges\Challenges\obj\Debug\net6.0\Challenges.AssemblyInfoInputs.cache
+C:\Users\JesusEmmanuelAbraham\source\me\Challenges\Challenges\obj\Debug\net6.0\Challenges.AssemblyInfo.cs
+C:\Users\JesusEmmanuelAbraham\source\me\Challenges\Challenges\obj\Debug\net6.0\Challenges.csproj.CoreCompileInputs.cache
+C:\Users\JesusEmmanuelAbraham\source\me\Challenges\Challenges\obj\Debug\net6.0\Challenges.dll
+C:\Users\JesusEmmanuelAbraham\source\me\Challenges\Challenges\obj\Debug\net6.0\refint\Challenges.dll
+C:\Users\JesusEmmanuelAbraham\source\me\Challenges\Challenges\obj\Debug\net6.0\Challenges.pdb
+C:\Users\JesusEmmanuelAbraham\source\me\Challenges\Challenges\obj\Debug\net6.0\Challenges.genruntimeconfig.cache
+C:\Users\JesusEmmanuelAbraham\source\me\Challenges\Challenges\obj\Debug\net6.0\ref\Challenges.dll
